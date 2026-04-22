@@ -13,7 +13,7 @@ Olá, eu sou o João Vitor Soares.
 * Java
 * Lógica de Programação
 * Programação Orientada a Objetos
-* Git e GitHub
+* Html e CSS
 
 ---
 
