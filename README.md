@@ -2,7 +2,7 @@ Olá, eu sou o João Vitor Soares.
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
-Focado em Back-End!
+Focado em Back-End Java e Aws!
 
 🚀 Em constante evolução na programação
 
